@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import logo from "../../assets/logo.png";
-import "./navbar.css";
+import "./Navbar.css";
 import arrow_icon from "../../assets/arrow_icon.png";
 import { CoinContext } from "../../context/CoinContext";
 import { Link } from "react-router-dom";
