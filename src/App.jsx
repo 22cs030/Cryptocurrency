@@ -2,8 +2,8 @@
 import React from "react";
 import Navbar from "./components/Navbar/navbar";
 import { Routes, Route } from "react-router-dom";
-import Home from "./pages/home/Home";
-import Coin from "./pages/coin/Coin";
+import Home from "./pages/Home/Home";
+import Coin from "./pages/Coin/Coin";
 import Footer from "./components/Footer/Footer";
 
 const App = () => {
